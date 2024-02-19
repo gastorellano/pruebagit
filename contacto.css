@@ -1,0 +1,40 @@
+nav{
+	border: solid 1px #EEE8AA;
+	background-color: #E7E5E0;
+	color: #EEE8AA;
+}
+header{
+	background-color:#E7E5E0;
+	text-align: center;
+	width: 95%;
+	position: relative; left: 2.5%;}
+
+header img {
+	width: 100%;
+	height: 90px;
+}
+label{
+	text-align: justify;
+	font-family: comic sans;
+	font-size: 10;
+}
+a{
+	text-align: center;
+	font-family: comic sans;
+	font-size: 8pt;
+
+}
+a:hover{
+text-align: center;
+	font-family: comic sans;
+	font-size: 10pt;
+	background-color: #100C90;
+	color: #908A0C;}
+h6{
+	position: relative;top:17px;
+}
+#legal{
+	font-size: 7pt;
+	text-align: justify;
+	font-family: Times New Roman;
+}
